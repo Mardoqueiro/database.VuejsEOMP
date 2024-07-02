@@ -1,0 +1,148 @@
+{
+    "jobTitle": [
+        {
+            "title": "Aspiring Software Developer",
+            "colour" : "blue"
+        },
+        {
+            "title": "Aspiring Full-stack Developer",
+            "colour" : "green"
+        },
+        {
+            "title": "Aspiring Frontend Developer",
+            "colour" : "yellow"
+        },
+        {
+            "title": "YouTuber",
+            "colour" : "red"
+        }
+    ],
+    "about": [
+        "I'm Mardoquéiro Dimbu, a software developer passionate about coding. I started my coding journey after matriculating from Wynberg Boys High School in 2023. I was inspired by my upbringing in a children's home and the pandemic gave me the opportunity to discover my love for coding. I'm dedicated to enhancing my skills at Life Choices Coding Academy, driven by my love for technology and my ambition to excel in the field."
+    ],
+    "education": [
+        {
+        "id": 1,
+        "name": "Wynberg Boys' High School",
+        "duration": "2019 - 2023",
+        "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Education/WBHS-Colour-TransparentBG.png"
+        },
+        {
+        "id": 2,
+        "name": "Life Choices Coding Academy",
+        "duration": "2024 - 2025",
+        "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Education/LCCA.jpg"
+        }
+    ],
+    "experiences": [
+        {
+        "id": 1,
+        "companyName": "The Homestead",
+        "jobTitle": "Sectury",
+        "duration": "February 2024 - February 2024",
+        "duties": ["I had to answer calls and report to the manager"]
+        }
+        
+    ],
+    "skills": [
+        {
+        "title": "Web Development",
+        "experience": "Basic knowledge of web technologies (HTML, CSS, JavaScript) and frameworks (Vue.js 3). I am still building applications using the mentioned technologies.",
+        "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Skill/all.Icon.png"
+        },
+        {
+        "title": "Software Development Methodologies",
+        "experience": " Familiarity with Agile, Scrum, or other software development methodologies for effective project management.",
+        "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Skill/agile.icon.png"
+        },
+        {
+        "title": "Version Control System",
+        "experience": "Proficiency with version control tools like Git, including branching, merging, and pull requests.",
+        "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Skill/github.icon.png"
+        },
+        {
+        "title": "Problem-Solving Skills",
+        "experience": "Ability to break down complex problems into smaller, manageable tasks and develop efficient solutions.",
+        "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Skill/p.solving.jpg"
+        },
+        {
+        "title": "UX/UI Design Principles",
+        "experience": "UX/UI Design Principles",
+        "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Skill/ui.ux.icon.png"
+        },
+        {
+        "title": "Soft Skills",
+        "experience": "Strong communication, teamwork, and time management skills to collaborate effectively with other team members and stakeholders.",
+        "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Skill/social-icons.jpg"
+        }        
+    ],
+    "testimonials": [
+        {
+            "name": "Anushqa",
+            "surname": "Kandan",
+            "quotes": "Mardoquéiro is an extremely hardworking and dedicated individual who always strives to do his best. He communicates well with others and works well in a team. He has a great sense of creativity and always goes the extra mile. Mordecai adds great value to any organization and has proven it time and time again.",
+            "profile": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Testimonial/Anushqa.jpg"
+        },
+        {
+            "name": "Nizaam",
+            "surname": "Jeftha",
+            "quotes": "Mardoquéiro is an amazing coder and a really cool person. He's super creative and makes coding look like art. Working with him is awesome because he's friendly and always ready to help out. Working with Mordecai is not just productive, it's also a whole lot of fun!",
+            "profile": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Testimonial/Nizaam.jpg"
+        },
+        {
+            "name": "Amy",
+            "surname": "Johnson",
+            "quotes": "Mardoquéiro is extremely passionate about coding. He remains calm in stressful situations and evaluates multiple outcomes of a solution before making a final decision. He is precise and his solutions are practical and effective. He carries himself professionally and works well in a team. His explanations are clear with no ambiguity. Mordecai would be a great asset to your company.",
+            "profile": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Testimonial/Amy.jpg"
+        },
+        {
+            "name": "Ismaaeel",
+            "surname": "Ahmed",
+            "quotes": "Mardoquéiro is a diligent worker who puts in the effort. He has a thirst for knowledge and self-improvement. He behaves in a respectful manner and is easy to approach. He is wonderful to be around.",
+            "profile": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Testimonial/20240422_094042.jpg"
+        },
+        {
+            "name": "Mapule",
+            "surname": "Mbuzwana",
+            "quotes": "Mordecai is a full-stack wizard who brings websites to life with style and functionality. He is always on point with deadlines and communication. He would be a great asset to your team.",
+            "profile": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Testimonial/Mapule.jpg"
+        }
+    ],
+    "projects": [
+        {
+            "name": "To-do-list",
+            "description": "A simple task management application to organize and track daily activities and responsibilities.",
+            "image": "https://mardoqueiro.github.io/all_images/VueJs.porfolio/project.images/To-do-list.png",
+            "gitHub": "https://github.com/Mardoqueiro/Todo-app-Challenge.git",
+            "vercel": "https://todo-app-challenge-omega.vercel.app"
+        },
+        {
+            "name": "E-com Website",
+            "description": "An online platform for browsing, purchasing, and managing products and services securely.",
+            "image": "https://mardoqueiro.github.io/all_images/VueJs.porfolio/project.images/E-ComWebsite.png",
+            "gitHub": "https://github.com/Mardoqueiro/RetroQueiro.git",
+            "vercel": "https://retro-queiro.vercel.app"
+        },
+        {
+            "name": "Temperature Converter",
+            "description": "A tool for converting temperatures between Celsius, Fahrenheit, and Kelvin scales.",
+            "image": "https://mardoqueiro.github.io/all_images/VueJs.porfolio/project.images/TemperatureConveerter.png",
+            "gitHub": "https://github.com/Mardoqueiro/TEMPERATURE_CONVERTOR.git",
+            "vercel": "https://temperature-convertor-rho-beryl.vercel.app"            
+        },
+        {
+            "name": "Calculator",
+            "description": "A basic arithmetic calculator for performing addition, subtraction, multiplication, and division.",
+            "image": "https://mardoqueiro.github.io/all_images/VueJs.porfolio/project.images/Calculator.png",
+            "gitHub": "https://github.com/Mardoqueiro/New_calculator.git",
+            "vercel": "https://new-calculator-olive.vercel.app"            
+        },
+        {
+            "name": "Key Board",
+            "description": "A virtual or physical keyboard interface for inputting text and executing commands on digital devices.",
+            "image": "https://mardoqueiro.github.io/all_images/VueJs.porfolio/project.images/KeyBoard.png",
+            "gitHub": "https://github.com/Mardoqueiro/keyboard.git",
+            "vercel": "https://keyboard-topaz.vercel.app"            
+        }
+    ]
+}
