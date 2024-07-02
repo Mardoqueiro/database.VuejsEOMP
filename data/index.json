@@ -112,35 +112,35 @@
         {
             "name": "To-do-list",
             "description": "A simple task management application to organize and track daily activities and responsibilities.",
-            "image": "https://mardoqueiro.github.io/all_images/VueJs.porfolio/project.images/To-do-list.png",
+            "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/To-do-list.png",
             "gitHub": "https://github.com/Mardoqueiro/Todo-app-Challenge.git",
             "vercel": "https://todo-app-challenge-omega.vercel.app"
         },
         {
             "name": "E-com Website",
             "description": "An online platform for browsing, purchasing, and managing products and services securely.",
-            "image": "https://mardoqueiro.github.io/all_images/VueJs.porfolio/project.images/E-ComWebsite.png",
+            "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/E-ComWebsite.png",
             "gitHub": "https://github.com/Mardoqueiro/RetroQueiro.git",
             "vercel": "https://retro-queiro.vercel.app"
         },
         {
             "name": "Temperature Converter",
             "description": "A tool for converting temperatures between Celsius, Fahrenheit, and Kelvin scales.",
-            "image": "https://mardoqueiro.github.io/all_images/VueJs.porfolio/project.images/TemperatureConveerter.png",
+            "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/TemperatureConveerter.png",
             "gitHub": "https://github.com/Mardoqueiro/TEMPERATURE_CONVERTOR.git",
             "vercel": "https://temperature-convertor-rho-beryl.vercel.app"            
         },
         {
             "name": "Calculator",
             "description": "A basic arithmetic calculator for performing addition, subtraction, multiplication, and division.",
-            "image": "https://mardoqueiro.github.io/all_images/VueJs.porfolio/project.images/Calculator.png",
+            "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/Calculator.png",
             "gitHub": "https://github.com/Mardoqueiro/New_calculator.git",
             "vercel": "https://new-calculator-olive.vercel.app"            
         },
         {
             "name": "Key Board",
             "description": "A virtual or physical keyboard interface for inputting text and executing commands on digital devices.",
-            "image": "https://mardoqueiro.github.io/all_images/VueJs.porfolio/project.images/KeyBoard.png",
+            "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/KeyBoard.png",
             "gitHub": "https://github.com/Mardoqueiro/keyboard.git",
             "vercel": "https://keyboard-topaz.vercel.app"            
         }
