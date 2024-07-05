@@ -18,9 +18,7 @@
         }
     ],
     "about": [
-        {
-        "quotes": "I'm Mardoquéiro Dimbu, a software developer passionate about coding. I started my coding journey after matriculating from Wynberg Boys High School in 2023. I was inspired by my upbringing in a children's home and the pandemic gave me the opportunity to discover my love for coding. I'm dedicated to enhancing my skills at Life Choices Coding Academy, driven by my love for technology and my ambition to excel in the field."
-        }
+        "I'm Mardoquéiro Dimbu, a software developer passionate about coding. I started my coding journey after matriculating from Wynberg Boys High School in 2023. I was inspired by my upbringing in a children's home and the pandemic gave me the opportunity to discover my love for coding. I'm dedicated to enhancing my skills at Life Choices Coding Academy, driven by my love for technology and my ambition to excel in the field."
     ],
     "education": [
         {
@@ -125,7 +123,7 @@
             "vercel": "https://todo-app-challenge-omega.vercel.app"
         },
         {
-            "name": "E-com Website",
+            "name": "E-commerce Website",
             "description": "An online platform for browsing, purchasing, and managing products and services securely.",
             "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/E-ComWebsite.png",
             "gitHub": "https://github.com/Mardoqueiro/RetroQueiro.git",
@@ -146,7 +144,7 @@
             "vercel": "https://new-calculator-olive.vercel.app"            
         },
         {
-            "name": "Key Board",
+            "name": "Key-Board Challenge",
             "description": "A virtual or physical keyboard interface for inputting text and executing commands on digital devices.",
             "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/KeyBoard.png",
             "gitHub": "https://github.com/Mardoqueiro/keyboard.git",
@@ -154,7 +152,7 @@
         },
         {
             "name": "Swegga Website Challenge",
-            "description": "A virtual or physical keyboard interface for inputting text and executing commands on digital devices.",
+            "description": "The Swegga challenge involved creating a clothing website that calculated the total price based on selected items and their quantities",
             "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/Swegga.png",
             "gitHub": "https://github.com/Mardoqueiro/SWEGGA_websiteChallenge.git",
             "vercel": "https://swegga-website-challenge.vercel.app"            
