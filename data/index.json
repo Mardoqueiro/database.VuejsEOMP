@@ -18,7 +18,7 @@
         }
     ],
     "about": [
-        "I'm Mardoquéiro Dimbu, a software developer passionate about coding. I started my coding journey after matriculating from Wynberg Boys High School in 2023. I was inspired by my upbringing in a children's home and the pandemic gave me the opportunity to discover my love for coding. I'm dedicated to enhancing my skills at Life Choices Coding Academy, driven by my love for technology and my ambition to excel in the field."
+        "I'm Mardoquéiro Dimbu, a software developer passionate about coding. I started my coding journey after matriculating from Wynberg Boys High School. I was inspired by my upbringing in a children's home and the pandemic gave me the opportunity to discover my love for coding. I'm dedicated to enhancing my skills at Life Choices Coding Academy, driven by my love for technology and my ambition to excel in the field."
     ],
     "education": [
         {
@@ -40,7 +40,7 @@
         "companyName": "The Homestead",
         "jobTitle": "Sectury",
         "duration": "February 2024 - February 2024",
-        "duties": ["I had to answer calls and report to the manager"]
+        "duties": "I had to answer calls and report to the manager"
         }
         
     ],
@@ -116,11 +116,11 @@
     ],
     "projects": [
         {
-            "name": "To-do-list",
-            "description": "A simple task management application to organize and track daily activities and responsibilities.",
-            "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/To-do-list.png",
-            "gitHub": "https://github.com/Mardoqueiro/Todo-app-Challenge.git",
-            "vercel": "https://todo-app-challenge-omega.vercel.app"
+            "name": "Swegga Website",
+            "description": "The Swegga challenge involved creating a clothing website that calculated the total price based on selected items and their quantities",
+            "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/Swegga.png",
+            "gitHub": "https://github.com/Mardoqueiro/SWEGGA_websiteChallenge.git",
+            "vercel": "https://swegga-website-challenge.vercel.app"            
         },
         {
             "name": "E-commerce Website",
@@ -151,11 +151,12 @@
             "vercel": "https://keyboard-topaz.vercel.app"            
         },
         {
-            "name": "Swegga Website Challenge",
-            "description": "The Swegga challenge involved creating a clothing website that calculated the total price based on selected items and their quantities",
-            "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/Swegga.png",
-            "gitHub": "https://github.com/Mardoqueiro/SWEGGA_websiteChallenge.git",
-            "vercel": "https://swegga-website-challenge.vercel.app"            
+            "name": "To-do-list",
+            "description": "A simple task management application to organize and track daily activities and responsibilities.",
+            "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/To-do-list.png",
+            "gitHub": "https://github.com/Mardoqueiro/Todo-app-Challenge.git",
+            "vercel": "https://todo-app-challenge-omega.vercel.app"
         }
+        
     ]
 }
