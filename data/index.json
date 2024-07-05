@@ -80,7 +80,7 @@
         {
             "name": "Joel",
             "surname": "Mukhanya",
-            "quotes": "",
+            "quotes": "Mordecai is very creative, well-behaved, and dedicated; he enjoys working with his peers and works well on his projects. He has learned various skills and tools like HTML, CSS, JavaScript, Wireframe, Bootstrap, etc. I am honored to present him to you as one of the great candidates/developers. What I like about him is the way he asks for help. First, he will present what was done and what he tried. By the end of the day, he needed me to point him in the right direction.",
             "profile": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Testimonial/JoelMukhanya.jpg"
         },
         {
@@ -144,7 +144,7 @@
             "vercel": "https://new-calculator-olive.vercel.app"            
         },
         {
-            "name": "Key-Board Challenge",
+            "name": "Key-Board ",
             "description": "A virtual or physical keyboard interface for inputting text and executing commands on digital devices.",
             "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/KeyBoard.png",
             "gitHub": "https://github.com/Mardoqueiro/keyboard.git",
