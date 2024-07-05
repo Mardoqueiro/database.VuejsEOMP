@@ -13,12 +13,14 @@
             "colour" : "yellow"
         },
         {
-            "title": "YouTuber",
+            "title": "Aspiring Backend Developer",
             "colour" : "red"
         }
     ],
     "about": [
-        "I'm Mardoquéiro Dimbu, a software developer passionate about coding. I started my coding journey after matriculating from Wynberg Boys High School in 2023. I was inspired by my upbringing in a children's home and the pandemic gave me the opportunity to discover my love for coding. I'm dedicated to enhancing my skills at Life Choices Coding Academy, driven by my love for technology and my ambition to excel in the field."
+        {
+        "quotes": "I'm Mardoquéiro Dimbu, a software developer passionate about coding. I started my coding journey after matriculating from Wynberg Boys High School in 2023. I was inspired by my upbringing in a children's home and the pandemic gave me the opportunity to discover my love for coding. I'm dedicated to enhancing my skills at Life Choices Coding Academy, driven by my love for technology and my ambition to excel in the field."
+        }
     ],
     "education": [
         {
@@ -77,6 +79,12 @@
         }        
     ],
     "testimonials": [
+        {
+            "name": "Joel",
+            "surname": "Mukhanya",
+            "quotes": "",
+            "profile": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Testimonial/JoelMukhanya.jpg"
+        },
         {
             "name": "Anushqa",
             "surname": "Kandan",
@@ -143,6 +151,13 @@
             "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/KeyBoard.png",
             "gitHub": "https://github.com/Mardoqueiro/keyboard.git",
             "vercel": "https://keyboard-topaz.vercel.app"            
+        },
+        {
+            "name": "Swegga Website Challenge",
+            "description": "A virtual or physical keyboard interface for inputting text and executing commands on digital devices.",
+            "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/Swegga.png",
+            "gitHub": "https://github.com/Mardoqueiro/SWEGGA_websiteChallenge.git",
+            "vercel": "https://swegga-website-challenge.vercel.app"            
         }
     ]
 }
