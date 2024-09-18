@@ -38,63 +38,62 @@
         "duration": "February 2024 - February 2024",
         "duties": "I had to answer calls and report to the manager"
         }
-        
     ],
     "skills": [
         {
         "title": "Git Control",
         "experience": "Proficiency with version control tools like Git, including branching, merging, and pull requests.",
-        "image": "../image/github.png"
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/github.png"
         },
         {
         "title": "HTML",
         "experience": "Basic knowledge of web technologies (HTML, CSS, JavaScript) and frameworks (Vue.js 3). I am still building applications using the mentioned technologies.",
-        "image": "../image/html-5.png"
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/html-5.png"
         },
         {
         "title": "CSS",
         "experience": "Basic knowledge of web technologies (HTML, CSS, JavaScript) and frameworks (Vue.js 3). I am still building applications using the mentioned technologies.",
-        "image": "../image/css-3.png"
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/css-3.png"
         },
         {
         "title": "JavaScript",
         "experience": "Basic knowledge of web technologies (HTML, CSS, JavaScript) and frameworks (Vue.js 3). I am still building applications using the mentioned technologies.",
-        "image": "../image/js.png"
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/js.png"
         },
         {
         "title": "Node.js",
         "experience": "Basic knowledge of web technologies (HTML, CSS, JavaScript) and frameworks (Vue.js 3). I am still building applications using the mentioned technologies.",
-        "image": "../image/nodejs.png"
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/nodejs.png"
         },
         {
         "title": "Vue.js",
         "experience": "Basic knowledge of web technologies (HTML, CSS, JavaScript) and frameworks (Vue.js 3). I am still building applications using the mentioned technologies.",
-        "image": "../image/document.png"
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/document.png"
         },
         {
         "title": "MySQL",
         "experience": "Basic knowledge of web technologies (HTML, CSS, JavaScript) and frameworks (Vue.js 3). I am still building applications using the mentioned technologies.",
-        "image": "../image/mysql.png"
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/mysql.png"
         },
         {
         "title": "Software Development Methodologies",
         "experience": " Familiarity with Agile, Scrum, or other software development methodologies for effective project management.",
-        "image": "../image/activity.png"
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/activity.png"
         },
         {
         "title": "Problem-Solving Skills",
         "experience": "Ability to break down complex problems into smaller, manageable tasks and develop efficient solutions.",
-        "image": "../image/solution.png"
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/solution.png"
         },
         {
         "title": "UX/UI Design Principles",
         "experience": "UX/UI Design Principles",
-        "image": "../image/ui.png"
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/ui.png"
         },
         {
         "title": "Soft Skills",
         "experience": "Strong communication, teamwork, and time management skills to collaborate effectively with other team members and stakeholders.",
-        "image": "../image/motivation.png"
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/motivation.png"
         }        
     ],
     "testimonials": [
