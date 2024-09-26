@@ -1,11 +1,15 @@
 {
     "jobTitle": [
         {
+<<<<<<< HEAD
             "title": "a Software Developer",
             "colour" : "blue"
         },
         {
             "title": "a Full-stack Developer",
+=======
+            "title": "Aspiring Full-stack Developer",
+>>>>>>> 41517966ece7e64df756f9ca2548461af2524611
             "colour" : "green"
         },
         {
@@ -18,7 +22,7 @@
         }
     ],
     "about": [
-        "I'm Mardoquéiro Dimbu, a software developer passionate about coding. I started my coding journey after matriculating from Wynberg Boys High School. I was inspired by my upbringing in a children's home and the pandemic gave me the opportunity to discover my love for coding. I'm dedicated to enhancing my skills at Life Choices Coding Academy, driven by my love for technology and my ambition to excel in the field."
+        "I’m Mardoquéiro Dimbu, a passionate web developer with a deep love for technology and coding. After matriculating from Wynberg Boys' High School, my upbringing in a children's home inspired me to pursue a career in software development. The pandemic gave me the opportunity to fully explore coding, and I quickly realized how much I enjoy it. Now, I’m enhancing my skills at Life Choices Coding Academy, dedicated to growing my expertise and creating innovative solutions in the world of web development."
     ],
     "education": [
         {
@@ -42,23 +46,47 @@
         "duration": "February 2024 - February 2024",
         "duties": "I had to answer calls and report to the manager"
         }
-        
     ],
     "skills": [
         {
-        "title": "Web Development",
+        "title": "Git Control",
+        "experience": "Proficiency with version control tools like Git, including branching, merging, and pull requests.",
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/github.png"
+        },
+        {
+        "title": "HTML",
         "experience": "Basic knowledge of web technologies (HTML, CSS, JavaScript) and frameworks (Vue.js 3). I am still building applications using the mentioned technologies.",
-        "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/skill2/WD.Skills.webp"
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/html-5.png"
+        },
+        {
+        "title": "CSS",
+        "experience": "Basic knowledge of web technologies (HTML, CSS, JavaScript) and frameworks (Vue.js 3). I am still building applications using the mentioned technologies.",
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/css-3.png"
+        },
+        {
+        "title": "JavaScript",
+        "experience": "Basic knowledge of web technologies (HTML, CSS, JavaScript) and frameworks (Vue.js 3). I am still building applications using the mentioned technologies.",
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/js.png"
+        },
+        {
+        "title": "Node.js",
+        "experience": "Basic knowledge of web technologies (HTML, CSS, JavaScript) and frameworks (Vue.js 3). I am still building applications using the mentioned technologies.",
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/nodejs.png"
+        },
+        {
+        "title": "Vue.js",
+        "experience": "Basic knowledge of web technologies (HTML, CSS, JavaScript) and frameworks (Vue.js 3). I am still building applications using the mentioned technologies.",
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/document.png"
+        },
+        {
+        "title": "MySQL",
+        "experience": "Basic knowledge of web technologies (HTML, CSS, JavaScript) and frameworks (Vue.js 3). I am still building applications using the mentioned technologies.",
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/mysql.png"
         },
         {
         "title": "Software Development Methodologies",
         "experience": " Familiarity with Agile, Scrum, or other software development methodologies for effective project management.",
-        "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/skill2/Method.skills.png"
-        },
-        {
-        "title": "Version Control System",
-        "experience": "Proficiency with version control tools like Git, including branching, merging, and pull requests.",
-        "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/skill2/github-logo.png"
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/activity.png"
         },
         {
         "title": "Operating System Basics",
@@ -68,17 +96,17 @@
         {
         "title": "Problem-Solving Skills",
         "experience": "Ability to break down complex problems into smaller, manageable tasks and develop efficient solutions.",
-        "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Skill/p.solving-removebg-preview.png"
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/solution.png"
         },
         {
         "title": "UX/UI Design Principles",
         "experience": "UX/UI Design Principles",
-        "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/skill2/ui-and-ux.jpg"
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/ui.png"
         },
         {
         "title": "Soft Skills",
         "experience": "Strong communication, teamwork, and time management skills to collaborate effectively with other team members and stakeholders.",
-        "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Skill/social-icons.jpg"
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/motivation.png"
         }        
     ],
     "testimonials": [
