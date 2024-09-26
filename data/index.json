@@ -1,15 +1,12 @@
 {
     "jobTitle": [
         {
-<<<<<<< HEAD
             "title": "a Software Developer",
             "colour" : "blue"
         },
         {
             "title": "a Full-stack Developer",
-=======
-            "title": "Aspiring Full-stack Developer",
->>>>>>> 41517966ece7e64df756f9ca2548461af2524611
+
             "colour" : "green"
         },
         {
