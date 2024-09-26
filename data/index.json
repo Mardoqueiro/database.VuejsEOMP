@@ -1,19 +1,19 @@
 {
     "jobTitle": [
         {
-            "title": "Aspiring Software Developer",
+            "title": "a Software Developer",
             "colour" : "blue"
         },
         {
-            "title": "Aspiring Full-stack Developer",
+            "title": "a Full-stack Developer",
             "colour" : "green"
         },
         {
-            "title": "Aspiring Frontend Developer",
+            "title": "a Frontend Developer",
             "colour" : "yellow"
         },
         {
-            "title": "Aspiring Backend Developer",
+            "title": "a Backend Developer",
             "colour" : "red"
         }
     ],
@@ -59,6 +59,11 @@
         "title": "Version Control System",
         "experience": "Proficiency with version control tools like Git, including branching, merging, and pull requests.",
         "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/skill2/github-logo.png"
+        },
+        {
+        "title": "Operating System Basics",
+        "experience": "Proficiency with operating systems such as Linux, macOS, and Windows.",
+        "image": "https://mardoqueiro.github.io/Capstone.Image/portfolio/operating-systems-basics.png"
         },
         {
         "title": "Problem-Solving Skills",
